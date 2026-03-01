@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy — Bishop AI Assistant
----
-
 # Privacy Policy — Bishop AI Assistant
 
 Last Updated: February 28, 2026
